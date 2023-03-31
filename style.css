@@ -110,16 +110,25 @@ h2 {
   /*  sobre min */
 
 .informacoes p {
-    padding: 10px 20px 5px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    font-size: large;
     
 
+}
+.informacoes h2{
+  padding-top: 20px;
+  padding-left: 40px;
 }
 .curiosidades {
     width: 60%;
     
 }
 .curiosidades li {
-    padding: 4px 20px;
+    padding: 4px 40px;
+    font-size: large;
   
 }
 .containerCuriosidades aside {
@@ -127,5 +136,8 @@ h2 {
 ;
 }
 
-aside{ float: left; padding-left: 10px; padding-top: 0px;padding-bottom: 90px; margin-top: 0%; padding-right: 30px;}
-footer{ background-color: #181D31;height: 50px;}
+aside{ float: left; padding-left: 40px; padding-top: 10px;padding-bottom: 90px; margin-top: 0%; padding-right: 30px;}
+footer{ background-color: #181D31;height: 1000px;}
+html{
+  overflow-y: hidden;
+}
