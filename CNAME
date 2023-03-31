@@ -1,5 +1,1 @@
-$ dig www.giovannafavoreto.com+nostats +nocomments +nocmd
-    > ;www.giovannafavoreto.com                    IN      A
-    > www.giovannafavoreto.com            3592    IN      CNAME   Favoreto-hub.github.io.
-    > www.giovannafavoreto.com     43192   IN      CNAME   GITHUB-PAGES-SERVER .
-    > www.giovannafavoreto.com        22      IN      A       192.0.2.1
+www.giovannafavoreto.com
