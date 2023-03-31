@@ -134,4 +134,7 @@ h2 {
  margin-top: 20px;
 ;
 }
-footer{ background-color: #181D31;height: 30px;}
+footer{ background-color: #181D31;height: 1000px;}
+html{
+  overflow-y: hidden;
+}
