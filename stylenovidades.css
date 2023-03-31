@@ -117,10 +117,10 @@ h2 {
 .séries {
     width: 50%;
     padding-right: 5px;
-    padding-left: 23px;
+    padding-left: 40px;
     margin-right: 5px;
-    padding-bottom: 30px;
-    padding-top: 13px;
+    padding-bottom: 120px;
+    padding-top: 65px;
 }
   
 .containerNovidades aside {
@@ -128,9 +128,12 @@ h2 {
 ;
 }
 .música{
-    padding: 0px;
+    padding: 50px 10px 60px 100px;
     height: 450px;
     
 }
 aside{ width: 50%; float: left; padding-left: 80px; padding-top: 0px;padding-bottom: 90px; padding-right: 50px;margin-top: 0%;}
-footer{ background-color: #181D31;height: 50px; padding: 0px;margin: 0px;}
+footer{ background-color: #181D31;height: 1000px;}
+html{
+  overflow-y: hidden;
+}
