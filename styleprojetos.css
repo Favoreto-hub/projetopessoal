@@ -108,6 +108,9 @@ h2 {
 
   .fotos{
     width: 100%;
-    padding: 5px 8px 15px 30px;
+    padding: 60px 6px 90px 110px;
   }
-footer{ background-color: #181D31;height: 45px;}
+  footer{ background-color: #181D31;height: 1000px;}
+  html{
+    overflow-y: hidden;
+  }
